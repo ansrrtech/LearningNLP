@@ -5,10 +5,10 @@ President Franklin D. Roosevelt in 1941
 President John F. Kennedy in 1961
 President Richard Nixon in 1973
 
-1. Find the number of characters, words and sentences for the mentioned documents. – 3 Marks
-2. Remove all the stopwords from all the three speeches. – 3 Marks
-3. Which word occurs the most number of times in his inaugural address for each president? Mention the top three words. (after removing the stopwords) – 3 Marks
-4. Plot the word cloud of each of the speeches of the variable. (after removing the stopwords) – 3 Marks [ refer to the End-to-End Case Study done in the Mentored Learning Session ]
+1. Find the number of characters, words and sentences for the mentioned documents.
+2. Remove all the stopwords from all the three speeches.
+3. Which word occurs the most number of times in his inaugural address for each president? Mention the top three words. (after removing the stopwords)
+4. Plot the word cloud of each of the speeches of the variable. (after removing the stopwords)
 5. Code Snippet to extract the three speeches:
 
 "
